@@ -1,0 +1,37 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.heading {
+    background-color: aliceblue;
+    color: purple;
+    
+    font-size: 50px;
+
+    height: 100px;
+    width: 500px;
+
+    margin: 40px auto;
+    padding: 20px;
+    border: 5px solid;
+}
+
+.links {
+    background-color: aquamarine;
+    color: purple;
+    font-size: large;
+
+    height: 80px;
+    width: 300px;
+    
+    margin: 0 auto;
+    padding: 5px;
+    border: 5px solid black;
+}
