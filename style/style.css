@@ -9,6 +9,36 @@
     text-align: center;
 }
 
+img {
+    border: 5px solid rebeccapurple;
+    width: 400px;
+    height: auto;
+}
+
+h1,
+h2 {
+    border: 5px solid gray;
+    background-color: whitesmoke;
+}
+
+h1 {
+    padding: 10px;
+    margin: 10px auto;
+    width: 500px;
+}
+
+h2 {
+    padding: 5px;
+    margin: 10px auto;
+    width: 300px;
+}
+
+li {
+    margin: 0 auto;
+    width: 500px;
+    text-align: left;
+}
+
 .heading {
     background-color: aliceblue;
     color: purple;
